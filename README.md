@@ -1,6 +1,9 @@
 # Ocode
 
 #### 闲来无事打算撸一个代码混淆工具，结果懒得要死，半天只写一点点。先放出来给大家免费使用，看看用的人多不多，有人用才有动力继续写...
+
+#### 混淆前请务必先自行备份项目！！！
+
 #### Telegram：[LittleSweet_Z](https://t.me/LittleSweet_Z)
 #### Q：3929975491
 #### Q群：[717636444](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ixLD4_PGmAcvx1rEW0TIyA6PHu-rrpXO&authKey=cn8bECa5JMeIJQNQeSywoDQPkQzkHa38wI3eoELmkBf%2FJaYri6EBjVYAiGiszhSd&noverify=0&group_code=717636444)

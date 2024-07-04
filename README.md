@@ -43,7 +43,7 @@
   - [ ] Codable
 
 - 资源工具
-  - [ ] 图片改色
+  - [x] 图片改色
   - [x] 修改资源文件hash
     - [x] PNG
     - [x] JPG、JPEG

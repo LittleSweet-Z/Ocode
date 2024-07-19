@@ -2,7 +2,7 @@
 
 #### 闲来无事打算撸一个代码混淆工具。先放出来给大家免费使用，看看用的人多不多，有人用才有动力继续写...
 
-#### 免费账号自取->[腾讯文档](https://docs.qq.com/sheet/DSE9Oa0tUaUh5aHNI?tab=BB08J2&u=9ae39b47e5e646daa2e60ca801b9f111)
+#### 免费账号自取->[腾讯文档](https://docs.qq.com/sheet/DSGNBVVVRZ1BkZFlw?tab=BB08J2)
 
 #### 混淆前请务必先自行备份项目！！！混淆后请务必做完整的测试！！！
 

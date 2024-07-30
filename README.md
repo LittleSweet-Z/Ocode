@@ -17,7 +17,7 @@
 ---
 
 ### 支持
-#### Object-C、Swift、Xib
+#### Object-C、Swift、Xib、Storyboard
 
 ### 功能介绍
 - 代码混淆、加密
@@ -51,7 +51,7 @@
     - [ ] PDF
     - [x] MP3
     - [ ] MP4
-  - [ ] 文件名称混淆
+  - [x] 文件名称混淆
   - [ ] 文件夹名称混淆
 
 - 其它

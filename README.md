@@ -4,6 +4,8 @@
 
 #### 免费账号自取->[腾讯文档](https://docs.qq.com/sheet/DSGNBVVVRZ1BkZFlw?tab=BB08J2)
 
+#### 工具下载地址->[Ocode](https://github.com/LittleSweet-Z/Ocode/releases)
+
 #### 混淆前请务必先自行备份项目！！！混淆后请务必做完整的测试！！！
 
 ==============

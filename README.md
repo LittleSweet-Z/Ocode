@@ -2,7 +2,7 @@
 
 #### 闲来无事打算撸一个代码混淆工具。先放出来给大家免费使用，看看用的人多不多，有人用才有动力继续写...
 
-#### 免费账号自取->[腾讯文档](https://docs.qq.com/sheet/DSGNBVVVRZ1BkZFlw?tab=BB08J2)
+#### 免费账号获取请联系Q：3929975491
 
 #### 工具下载地址->[Ocode](https://github.com/LittleSweet-Z/Ocode/releases)
 

@@ -49,8 +49,8 @@
   - [x] 修改资源文件hash
     - [x] PNG
     - [x] JPG、JPEG
+    - [x] PDF
     - [ ] GIF
-    - [ ] PDF
     - [x] MP3
     - [ ] MP4
   - [x] 文件名称混淆

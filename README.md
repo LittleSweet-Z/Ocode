@@ -17,7 +17,7 @@
 ---
 
 ### 支持
-#### Object-C、Swift、Xib、Storyboard
+#### Object-C、Swift、Xib、Storyboard、sks
 
 ### 功能介绍
 - 代码混淆、加密

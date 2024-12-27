@@ -1,7 +1,5 @@
 # Ocode
 
-#### 免费账号获取请联系Q：3929975491
-
 #### 工具下载地址->[Ocode](https://github.com/LittleSweet-Z/Ocode/releases)
 
 #### 混淆前请务必先自行备份项目！！！混淆后请务必做完整的测试！！！

@@ -1,5 +1,6 @@
 # Ocode
 
+#### 免费试用
 #### 工具下载地址->[Ocode](https://github.com/LittleSweet-Z/Ocode/releases)
 
 #### 混淆前请务必先自行备份项目！！！混淆后请务必做完整的测试！！！
@@ -45,6 +46,7 @@
     - [ ] MP4
   - [x] 文件名称混淆
   - [ ] 文件夹名称混淆
+  - [x] 支持国际化
 
 - 模型映射支持
   - [x] MJExtension

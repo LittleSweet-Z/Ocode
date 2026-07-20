@@ -76,4 +76,14 @@
 
 ### 特别说明
 - 该软件仅用于提高应用程序的反向工程难度，从而提升安全性。不能用于一切非法用途，若使用该软件造成一切不良后果与作者本人无关，使用者自行负责。
-- 如果提示【无法打开“Ocode”，因为无法确认开发者的身份】，请看百度教程https://jingyan.baidu.com/article/4dc40848e0ef9c89d946f1a1.html
+- 如果提示【无法打开“Ocode”，因为无法确认开发者的身份】，开启“任何来源”：
+  ```
+  spctl --global-disable
+  ```
+- 如果提示【已阻止恶意软件并移到废纸篓】，开启“任何来源”后：
+  ```
+  sudo codesign --force --deep --sign - [app路径]
+  ```
+  ```
+  sudo xattr -d com.apple.quarantine [app路径]
+  ```
